@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+  background-color: #F08080;
+}
+div.interviews,div.urgent2{
+  height:auto;
+  width: 600px;
+  margin: auto;
+  font-style: normal;
+  font-family: Elephant, Helvetica, serif;
+  font-size: 18px;
+}
+div.sincerely{
+  border: 1px;
+  padding: 20px;
+  margin: 10px auto;
+  font-size: 120%;
+}
+h1{
+  color: darkred;
+  font-size: 200%;
+}
+
+span{
+  font-family: Helvetica, Elephant, serif;
+  color:  darkred;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  background-color: red;
+  color:white;
+  position: fixed;
+  width: 100%;
+  border: 4px solid black;
+}
+li{
+  display: inline;
+}
+li a{
+  color:white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  border: 2px:
+  margin:auto;
+}
+li a:active{
+  text-decoration: underline;
+  color:black;
+  font-size: 200px;
+}
+li a:hover{
+  color: pink;
+}
